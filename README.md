@@ -1,16 +1,13 @@
-### Hi there 👋
+![Minha foto de apresentacao]( https://github.com/Emeson-Santos/Emeson-Santos/blob/main/1979562_489208867851975_1692446317_n.jpg )
+## in
 
-<!--
-**Emeson-Santos/Emeson-Santos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Olá!
 
-Here are some ideas to get you started:
+Meu nome é Emeson :blush::smirk:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:mortar_board: Graduado em Sistemas de Informação Bacharelado pela UFS - Universidade Federal de Sergipe.  Tenho conhecimentos em desenvolvimento web: asp .net MVC e core, JS, HTML, desenvolvimento front-end em REACT. Também tenho domínio em modelagem de processos com notação em BPMN.
+
+># "Não há problema que não possa ser solucionado pela paciência."
+
+ - :house: De sergipe morando em Itabaiana
+ - :computer: Desenvolvedor .Net Core | React | BPMN

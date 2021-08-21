@@ -5,9 +5,9 @@
 
 Meu nome é Emeson :blush::smirk:
 
-:mortar_board: Graduado em Sistemas de Informação Bacharelado pela UFS - Universidade Federal de Sergipe.  Tenho conhecimentos em desenvolvimento web: asp .net MVC e core, JS, HTML, desenvolvimento front-end em REACT. Também tenho domínio em modelagem de processos com notação em BPMN.
+:mortar_board: Graduado em Sistemas de Informação Bacharelado pela UFS - Universidade Federal de Sergipe.  Tenho conhecimentos em desenvolvimento web: asp .net MVC e core, JS, HTML, REACT. Também tenho domínio em modelagem de processos com notação em BPMN.
 
 ># "Não há problema que não possa ser solucionado pela paciência."
 
- - :house: De sergipe morando em Itabaiana
+ - :house: De Sergipe morando em Itabaiana
  - :computer: Desenvolvedor .Net Core | React | BPMN

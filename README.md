@@ -1,4 +1,4 @@
-![Minha foto de apresentacao]( https://github.com/Emeson-Santos/Emeson-Santos/blob/main/1979562_489208867851975_1692446317_n.jpg )
+![Minha foto de apresentacao]( https://github.com/Emeson-Santos/Emeson-Santos/blob/main/1979562_489208867851975_1692446317_n.jpg =200x )
 ## in
 
 # Olá!

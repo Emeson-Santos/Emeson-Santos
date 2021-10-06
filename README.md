@@ -1,4 +1,4 @@
-<img src="https://github.com/Emeson-Santos/Emeson-Santos/blob/main/Foto-FormaturaNara.png" alt="drawing" width="560" height= "260"/>
+<img src="https://github.com/Emeson-Santos/Emeson-Santos/blob/main/Foto-FormaturaNara.png" alt="drawing" width="390"/>
 
 # Olá!
 
